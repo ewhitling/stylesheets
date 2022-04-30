@@ -1,5 +1,5 @@
 :root {
-  --color-primary: var(--color-green) !important;
+  --color-primary: var(--color-purple) !important;
   
   --transition: all .2s ease-in-out !important;
   --font-size: 1em!important;
