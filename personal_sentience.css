@@ -1,5 +1,5 @@
 :root {
-  --color-primary: var(--color-purple) !important;
+  --color-primary: var(--color-purple-alt) !important;
   
   --transition: all .2s ease-in-out !important;
   --font-size: 1em!important;
@@ -16,6 +16,7 @@
   --color-green: #D4FF59!important;
   --color-blue: #3399ff !important;
   --color-purple: #7d47cf!important;
+  --color-purple-alt: #3c2d49!important;
   --color-pink: #ff99cc !important;
   --color-red: #ff5666!important;
 
