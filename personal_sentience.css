@@ -805,6 +805,8 @@ ol li {
   border-radius: 25 !important;
   border: 0 !important;
   transition: var(--transition) !important;
+  position: relative !important;
+  top: -70px !important;
 }
 
 .notion-collection__header {
