@@ -803,9 +803,10 @@ ol li {
   max-height: 400px !important;
   height: 400px !important;
   border-radius: 0 !important;
-  margin-bottom: 5px !important;
+  margin-top: 5px !important;
   border: 0 !important;
   transition: var(--transition) !important;
+  border-radius: 15px;
 }
 
 .notion-collection__header {
