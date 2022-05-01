@@ -803,8 +803,6 @@ ol li {
   max-height: 400px !important;
   height: 400px !important;
   border-radius: 15 !important;
-  transform: translate(-50%, -50%);
-
   /* margin-top: 5px !important; */
   border: 0 !important;
   transition: var(--transition) !important;
