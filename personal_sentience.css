@@ -467,7 +467,7 @@ a:hover {
 ul>.notion-list-item:before {
   content: "•"; 
   /* content: "⟶ "; */
-  opacity: .3 !important;
+  opacity: .45 !important;
   display: inline-block;
   margin-left: 0em;
   font-size: 16px !important;
