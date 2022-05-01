@@ -790,7 +790,7 @@ ol li {
 }
 
 .notion-collection-card {
-  border-radius: 0 !important;
+  border-radius: 15 !important;
   box-shadow: none !important;
   position: relative !important;
   width: 100% !important;
