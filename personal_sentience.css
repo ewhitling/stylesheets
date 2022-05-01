@@ -800,8 +800,8 @@ ol li {
 .notion-collection-card__cover,
 .notion-collection-card__cover div,
 .notion-collection-card__cover img {
-  max-height: 700px !important;
-  height: 700px !important;
+  max-height: 400px !important;
+  height: 400px !important;
   border-radius: 0 !important;
   margin-bottom: 5px !important;
   border: 0 !important;
