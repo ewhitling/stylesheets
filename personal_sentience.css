@@ -1185,7 +1185,8 @@ td {
   }
 
   .notion-property__title>.notion-semantic-string>span {
-    white-space: pre-wrap !important;
+    /* white-space: pre-wrap !important;  */
+    white-space: normal !important; 
   }
 
   .project-arrow {
