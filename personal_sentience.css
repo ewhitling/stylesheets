@@ -461,7 +461,7 @@ a:hover {
 }
 
 .notion-list-item>span {
-  padding-left: 8px !important;
+  padding-left: 0px !important;
 }
 
 ul>.notion-list-item:before {
