@@ -800,14 +800,11 @@ ol li {
 .notion-collection-card__cover,
 .notion-collection-card__cover div,
 .notion-collection-card__cover img {
-  /* max-height: 400px !important;
-  height: 400px !important; */
+  max-height: 400px !important;
+  height: 400px !important;
   border-radius: 15 !important;
-  
   width: 80%;
   position: absolute;
-  top: 50%;
-  left: 50%;
   transform: translate(-50%, -50%);
 
   /* margin-top: 5px !important; */
