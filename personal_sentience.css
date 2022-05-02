@@ -817,7 +817,7 @@ ol li {
   display: grid !important;
   flex-direction: column !important;
   border: 0 !important;
-  grid-gap: 0px !important;
+  grid-column-gap: 160px !important;
   border: none !important;
   padding: 0 !important;
 }
