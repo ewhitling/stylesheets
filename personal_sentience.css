@@ -791,7 +791,7 @@ ol li {
 }
 
 .notion-collection-card {
-  border-radius: 15 !important;
+  border-radius: 5% !important;
   box-shadow: none !important;
   position: relative !important;
   width: 100% !important;
@@ -803,7 +803,7 @@ ol li {
 .notion-collection-card__cover img {
   max-height: 400px !important;
   height: 400px !important;
-  border-radius: 25 !important;
+  border-radius: 5% !important;
   border: 0 !important;
   transition: var(--transition) !important;
 
@@ -817,7 +817,7 @@ ol li {
   display: grid !important;
   flex-direction: column !important;
   border: 0 !important;
-  grid-column-gap: 160px !important;
+  grid-column-gap: 90px !important;
   border: none !important;
   padding: 0 !important;
 }
