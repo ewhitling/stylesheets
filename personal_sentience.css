@@ -452,9 +452,9 @@ a:hover {
   opacity: .4 !important;
 }
 
-.notion-bulleted-list {
+/* .notion-bulleted-list {
   list-style: none !important;
-}
+} */
 
 .notion-bulleted-list li {
   margin: 6px 0px !important;
@@ -465,7 +465,7 @@ a:hover {
 }
 
 ul>.notion-list-item:before {
-  content: "•"; 
+  /* content: "•";  */
   /* content: "⟶ "; */
   opacity: .45 !important;
   display: inline-block;
