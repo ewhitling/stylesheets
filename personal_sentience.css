@@ -790,6 +790,10 @@ ol li {
   display: none !important;
 }
 
+.notion-image page-width {
+  border-radius: 5% !important;
+}
+
 .notion-collection-card {
   border-radius: 5% !important;
   box-shadow: none !important;
