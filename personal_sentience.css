@@ -814,7 +814,7 @@ ol li {
 }
 
 .notion-collection-gallery {
-  display: flex !important;
+  display: grid !important;
   flex-direction: column !important;
   border: 0 !important;
   grid-gap: 0px !important;
