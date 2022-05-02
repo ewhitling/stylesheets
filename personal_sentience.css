@@ -820,7 +820,6 @@ ol li {
   grid-gap: 0px !important;
   border: none !important;
   padding: 0 !important;
-  grid-template-columns: repeat(2,1fr);
 }
 
 .notion-collection-card:hover .notion-collection-card__cover {
@@ -852,6 +851,7 @@ ol li {
 
 .notion-collection-gallery .large {
   margin-top: 0px !important;
+  grid-template-columns: repeat(2, 1fr)
 }
 
 .notion-property__title {
