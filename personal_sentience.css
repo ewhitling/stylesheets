@@ -822,6 +822,7 @@ ol li {
   flex-direction: column !important;
   border: 0 !important;
   grid-column-gap: 90px !important;
+  grid-row-gap: 20px !important;
   border: none !important;
   padding: 0 !important;
 }
